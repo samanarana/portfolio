@@ -166,3 +166,8 @@ header.p-section {
   background-color: #f07ecd;
   border-color: #f07ecd;
 }
+
+.button-primary:hover {
+  background-color: #ce69b0;
+  border-color: #ce69b0;
+}
