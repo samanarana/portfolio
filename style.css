@@ -106,6 +106,8 @@ header.p-section {
   letter-spacing: .15em;
   text-transform: uppercase;
   padding: .65rem 1.5rem;
+  background-color: #297a75;
+  border-color: #297a75;
 }
 
 .btn-group-lg>.btn, .btn-lg {
@@ -138,7 +140,7 @@ header.p-section {
 
 .marker-highlight:before {
   content: "";
-  background-color: #0b6efd87;
+  background-color: #297a75;
   width: 102%;
   height: 0.2em;
   position: absolute;
@@ -155,4 +157,9 @@ header.p-section {
   align-items: center;
   flex-direction: column;
   margin-bottom: 20px;
+}
+
+bg-primary {
+  background-color: #297a75;
+  border-color: #297a75;
 }
