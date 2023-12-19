@@ -106,8 +106,6 @@ header.p-section {
   letter-spacing: .15em;
   text-transform: uppercase;
   padding: .65rem 1.5rem;
-  background-color: #297a75;
-  border-color: #297a75;
 }
 
 .btn-group-lg>.btn, .btn-lg {
@@ -140,7 +138,7 @@ header.p-section {
 
 .marker-highlight:before {
   content: "";
-  background-color: #297a75;
+  background-color: #f07ecd;
   width: 102%;
   height: 0.2em;
   position: absolute;
@@ -156,10 +154,15 @@ header.p-section {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  margin-bottom: 20px;
+  gap: 20px;
 }
 
-bg-primary {
-  background-color: #297a75;
-  border-color: #297a75;
+.bg-primary {
+  background-color: #f07ecd;
+  border-color: #f07ecd;
+}
+
+.button-primary {
+  background-color: #f07ecd;
+  border-color: #f07ecd;
 }
