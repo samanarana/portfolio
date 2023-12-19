@@ -148,3 +148,10 @@ header.p-section {
   padding: 0 0.25em;
   bottom: 0.2em;
 }
+
+.mt-5 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
