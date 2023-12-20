@@ -162,12 +162,12 @@ header.p-section {
   border-color: #f07ecd;
 }
 
-.button-primary {
+.btn-primary {
   background-color: #f07ecd;
   border-color: #f07ecd;
 }
 
-.button-primary:hover {
+.btn-primary:hover {
   background-color: #ce69b0;
   border-color: #ce69b0;
 }
