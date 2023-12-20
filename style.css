@@ -158,7 +158,7 @@ header.p-section {
 }
 
 .bg-primary {
-  background-color: #f07ecd;
+  background-color: #f07ecd !important;
   border-color: #f07ecd;
 }
 
